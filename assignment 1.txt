@@ -1,4 +1,4 @@
-**********************************************************************************************8
+
 1. Write a program to display the multiplication table from 5 to 10.
   
 #include<stdio.h>
